@@ -3,6 +3,7 @@
 
 
 ## 🌐 Viewable projects so far:
+# https://delightful-crostata-3c4c6d.netlify.app/
 # https://delightful-froyo-dae6c2.netlify.app
 # https://shiny-biscochitos-e983ce.netlify.app
 # https://willowy-pony-d63c8b.netlify.app
