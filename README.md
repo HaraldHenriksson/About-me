@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Front end student at Medieinstitutet, Malmö<br>🌱 I’m currently learning Javascript and Typescript<br>
+📚 Front end student at Medieinstitutet, Malmö<br>🌱 I’m currently learning node js<br>
 
 
 ## 🌐 Viewable projects so far:
